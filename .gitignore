@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+coverage.xml
+
+# SonarQube temporary files
+.scannerwork/
+
+# Local databases
+rewards_db.json
+test_db.json
